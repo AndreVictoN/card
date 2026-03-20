@@ -1,0 +1,9 @@
+Regra CSS === Formatações
+sintaxe:
+seletor = o elemento html que será formatado
+propriedade = o que será formatado no seletor
+valor = como a propriedade ficará
+
+seletor{
+    propriedade: valor;
+}
